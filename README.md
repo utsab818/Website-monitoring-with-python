@@ -10,6 +10,14 @@ pip install requests
 pip install python-dotenv
 `
 
+## CONFIGURE PARAMIKO
+(For making ssh connections)
+
+`
+pip install paramiko
+`
+
+
 ## If your account in not protected with 2-factor authentication
 
 GOTO:
